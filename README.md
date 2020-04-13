@@ -20,7 +20,11 @@ $ javac Server.java
 $ java Server
 $ javac Client.java
 $ java Client
+
 ```
+
+<a href="https://ibb.co/BBRZ7KS"><img src="https://i.ibb.co/Pg8hbzf/Screenshot-from-2020-04-13-20-11-36.png" alt="Screenshot-from-2020-04-13-20-11-36" border="0"></a>
+
 /-----------------------------------------------------------------------------------------------------------------------
 
 ## License
